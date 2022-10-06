@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDIena4_Cikli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena4_PakartotiCikli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena5_Masivi_ar_skaneri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena6_Masivi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena6_Masivi_ar_random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena7_Masivi_salidzinasana_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena8_funkcijas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena9_Vienkarsas_funkcijas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums6a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FmLZ5lQYuQVpputHcSZwTFJOxT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Documents\IT\JAVA\IntelliJ\Java-Intro" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Documents\IT\JAVA\IntelliJ\Java-Intro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Uzdevums1 (2)">
+    <configuration name="Uzdevums1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Tests1.Uzdevums1" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uzdevums1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="majasDarbs1.Uzdevums1" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="majasDarbs1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uzdevums1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="majasDarbs1.Uzdevums1" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="majasDarbs1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uzdevums1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tests1.Uzdevums1" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uzdevums5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tests1.Uzdevums5" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaIntro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaIntro" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="JavaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="JavaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="JavaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="JavaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Uzdevums1" />
+      <item itemvalue="Application.Uzdevums1 (1)" />
+      <item itemvalue="Application.Uzdevums5" />
+      <item itemvalue="Application.Uzdevums1 (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Uzdevums1 (2)" />
+        <item itemvalue="Application.Uzdevums1" />
+        <item itemvalue="Application.Uzdevums1" />
+        <item itemvalue="Application.Uzdevums5" />
+        <item itemvalue="Application.Uzdevums1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="" />
+      <created>1665092364399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665092364399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/majasDarbs1/Uzdevums1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Intro$Uzdevums1.ic" NAME="Uzdevums1 Coverage Results" MODIFIED="1665093148684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>majasDarbs1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
