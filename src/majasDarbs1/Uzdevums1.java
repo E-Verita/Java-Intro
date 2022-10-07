@@ -15,6 +15,7 @@ import java.util.Scanner;
 public class Uzdevums1 {
 
 	public static void main(String[] args) {
+		System.out.println("Tests:");
 		boolean vaiTurpinat = false;
 
 		do {
