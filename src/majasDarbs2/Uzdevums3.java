@@ -34,7 +34,7 @@ public class Uzdevums3 {
 	}
 
 	public static void izprintēt2D(float[][] mas2d) {
-		System.out.println("X\t\t1/x\t\t^2\t\tx^3\t\tx^4");
+		System.out.println("X\t\t\t1/x\t\t\tx^2\t\t\tx^3\t\t\tx^4");
 		for (int i = 0; i < mas2d.length; ++i) {
 			for (int j = 0; j < mas2d[i].length; ++j) {
 				System.out.print(String.format("%.2f", mas2d[i][j]) + "\t\t");
