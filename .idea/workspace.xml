@@ -1,75 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests1/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs1/Uzdevums8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majasDarbs2/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi1/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/papilduzdevumi2/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDIena4_Cikli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena4_PakartotiCikli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena5_Masivi_ar_skaneri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena6_Masivi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena6_Masivi_ar_random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena7_Masivi_salidzinasana_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena8_funkcijas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piemeri/LekcijuDiena9_Vienkarsas_funkcijas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars1_intro/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2_if_switch/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars3_cikli/Uzdevums9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars4_masivi/Uzdevums6a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars5_funkcijas/Uzdevums6.java" afterDir="false" />
+    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="Test commit">
+      <change afterPath="$PROJECT_DIR$/src/seminars6_klase/models/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/models/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/models/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/services/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/services/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars6_klase/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars6_klase/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars6_klase/services/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars6_klase/services/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,21 +31,17 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FmLZ5lQYuQVpputHcSZwTFJOxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Documents\IT\JAVA\IntelliJ\Java-Intro" />
@@ -286,6 +223,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665092364399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test commit">
+      <created>1665742574834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665742574834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test commit">
+      <created>1665742597538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665742597538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +250,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

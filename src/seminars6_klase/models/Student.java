@@ -3,30 +3,19 @@ package seminars6_klase.models;
 import java.util.Arrays;
 
 public class Student {
+    // 1. Izveidot mainīgos
     private String name;
     private String surname;
     private short [] birthday;
     private byte [] grades;
     private int matriculateNo;
     private boolean isInBudget;
-
-    public Student(String name, String surname, short[] birthday, byte[] grades, int matriculateNo, boolean isInBudget, StudyProgram studyProgram, StudyLevel studyLevel) {
-        this.name = name;
-        this.surname = surname;
-        this.birthday = birthday;
-        this.grades = grades;
-        this.matriculateNo = matriculateNo;
-        this.isInBudget = isInBudget;
-        this.studyProgram = studyProgram;
-        this.studyLevel = studyLevel;
-    }
-
-    public Student() {
-    }
-
-
     private StudyProgram studyProgram;
     private StudyLevel studyLevel;
+    //todo: 2. pārveidot Student klasi, kurai pievienot masīvu no priekšmetiem, kurus viņš apmeklēs  + set&get + konstruktori + toString
+    private Subject [] subjects;
+
+    // 2. Get un set funkcijas
 
     public String getName() {
         return name;
@@ -56,6 +45,7 @@ public class Student {
         return birthday;
     }
 
+    //gggg mm dd
     public void setBirthday(short[] birthday) {
         if (birthday.length==3 && birthday[0]>=1900 && birthday[0]<= 2010 & birthday[1]<=12 &&birthday[1]>0 && birthday[2]>0 && birthday[2]<=31){
             this.birthday = birthday;
@@ -84,7 +74,7 @@ public class Student {
         return matriculateNo;
     }
 
-    public void setMatriculateNo() { //todo uztaisit, lai programma genere
+    public void setMatriculateNo(int matriculateNo) { //todo uztaisit, lai programma genere
         this.matriculateNo = 0001;
     }
 
@@ -122,9 +112,69 @@ public class Student {
         }
     }
 
+    public Subject[] getSubjects() {
+        return subjects;
+    }
+
+    public void setSubjects(Subject[] subjects) {
+        this.subjects = subjects;
+    }
+
+    // 3. Konstrukotrs
+    public Student(String name, String surname, short[] birthday, byte[] grades, int matriculateNo, boolean isInBudget, StudyProgram studyProgram, StudyLevel studyLevel, Subject[] subjects) {
+        setName(name);
+        setSurname(surname);
+        setBirthday(birthday);
+        setGrades(grades);
+        setMatriculateNo(matriculateNo);
+        setInBudget(isInBudget);
+        setStudyProgram(studyProgram);
+        setStudyLevel(studyLevel);
+        setSubjects(subjects);
+    }
+
+    public Student(String name, String surname, short[] birthday, StudyProgram studyProgram, StudyLevel studyLevel) {
+        setName(name);
+        setSurname(surname);
+        setBirthday(birthday);
+        setGrades(new byte[20]);
+        setMatriculateNo(0);
+        setInBudget(false);
+        setStudyProgram(studyProgram);
+        setStudyLevel(studyLevel);
+        setSubjects(new Subject[10]);
+    }
+
+    public Student() {
+        setName("Nav zināms");
+        setSurname("Nav zināms");
+        setBirthday(new short[]{1910, 1, 1});
+        setGrades(new byte[20]);
+        setMatriculateNo(0);
+        setInBudget(false);
+        setStudyProgram(StudyProgram.other);
+        setStudyLevel(StudyLevel.not_given);
+        setSubjects(new Subject[10]);
+    }
+    public Student(String name, String surname, short[] birthday, byte[] grades, int matriculateNo, boolean isInBudget, StudyProgram studyProgram, StudyLevel studyLevel) {
+        setName(name);
+        setSurname(surname);
+        setBirthday(birthday);
+        setGrades(grades);
+        setMatriculateNo(matriculateNo);
+        setInBudget(isInBudget);
+        setStudyProgram(studyProgram);
+        setStudyLevel(studyLevel);
+        setSubjects(new Subject[]{new Subject("English", "Janis", (byte) 2, StudyProgram.Programmēšanas_speciālists)});
+    }
+
+
+    // 4. To String
+
+
     @Override
     public String toString() {
-        return "Student {" +
+        return "Student{" +
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", birthday=" + Arrays.toString(birthday) +
@@ -133,6 +183,8 @@ public class Student {
                 ", isInBudget=" + isInBudget +
                 ", studyProgram=" + studyProgram +
                 ", studyLevel=" + studyLevel +
+                ", subjects=" + Arrays.toString(subjects) +
                 '}';
     }
+
 }
