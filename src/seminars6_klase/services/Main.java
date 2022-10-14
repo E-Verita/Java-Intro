@@ -22,7 +22,7 @@ public class Main {
         System.out.println(student1.toString());
         System.out.println(student2.toString());
 
-
+        System.out.println("Tests");
     }
 
 }
