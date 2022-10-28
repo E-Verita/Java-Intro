@@ -4,7 +4,7 @@ public class Professor {
     private long p_id;
     private String name;
     private String surname;
-    private String degree;
+    private Degree degree;
     public static int counter = 0;
 
     public long getP_id() {
@@ -21,7 +21,7 @@ public class Professor {
     }
 
     public void setName(String name) {
-        if (name.matches("[A-Z]{1}[a-z]+")) {
+        if (name.matches("[A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+\\s?([A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+)?")) {
             this.name = name;
         } else {
             this.name = "Invalid Name";
@@ -35,7 +35,7 @@ public class Professor {
     }
 
     public void setSurname(String surname) {
-        if (surname.matches("[A-Z]{1}[a-z]+")) {
+        if (surname.matches("[A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+\\s?([A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+)?")) {
             this.surname = surname;
         } else {
             this.surname = "Invalid Surname";
@@ -44,12 +44,12 @@ public class Professor {
         }
     }
 
-    public String getDegree() {
+    public Degree getDegree() {
         return degree;
     }
 
     //todo: find regex!
-    public void setDegree(String degree) {
+    public void setDegree(Degree degree) {
         this.degree = degree;
     }
 
@@ -58,7 +58,7 @@ public class Professor {
     }
 
 
-    public Professor(String name, String surname, String degree ){
+    public Professor(String name, String surname, Degree degree ){
         setId();
         setName(name);
         setSurname(surname);
@@ -69,7 +69,7 @@ public class Professor {
         setId();
         setName("No Name");
         setSurname("No Surname");
-        setDegree("no degree");
+        setDegree(Degree.unknown);
     }
 
     @Override

@@ -20,7 +20,7 @@ public class Student {
     }
 
     public void setName(String name) {
-        if (name.matches("[A-Z]{1}[a-z]+")) {
+        if (name.matches("[A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+\\s?([A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+)?")){
             this.name = name;
         } else {
             this.name = "Nekorekti ievadīts vārds";
@@ -32,7 +32,7 @@ public class Student {
     }
 
     public void setSurname(String surname) {
-        if (surname.matches("[A-Z]{1}[a-z]+")) {
+        if (surname.matches("[A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+\\s?([A-ZĒŪĪĀŠĢĶĻŅČŽ]{1}[a-zēūīļķģšāžčņ]+)?")) {
             this.surname = surname;
         } else {
             this.surname = "Nekorekti ievadīts uzvārds";
@@ -63,4 +63,5 @@ public class Student {
                 ", surname='" + surname + '\'' +
                 '}';
     }
+
 }

@@ -33,18 +33,24 @@ public class Grade {
         return student;
     }
 
-    //TODO: Pārjautāt!!!
     public void setStudent(Student student) {
-        this.student = student;
+        if (student != null){
+            this.student = student;
+        } else {
+            this.student = new Student();
+        }
     }
 
     public Course getCourse() {
         return course;
     }
 
-    //TODO: Pārjautāt!!!
     public void setCourse(Course course) {
-        this.course = course;
+        if (course != null) {
+            this.course = course;
+        } else {
+            this.course = new Course();
+        }
     }
 
     public static int getCounter() {

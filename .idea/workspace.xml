@@ -4,89 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="Test commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars7/ExampleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars7/models/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminarz2/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminarz2/model/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminarz2/model/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminarz2/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminarz2/service/VeA_IS.java" afterDir="false" />
+    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="Seminars NR2">
+      <change afterPath="$PROJECT_DIR$/src/seminarz2/model/Degree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tests1/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tests1/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tests1/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tests1/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tests1/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tests1/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tests1/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tests1/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tests1/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tests1/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs1/Uzdevums8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/majasDarbs2/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi1/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/papilduzdevumi2/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDIena4_Cikli.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDIena4_Cikli.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena4_PakartotiCikli.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena4_PakartotiCikli.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena5_Masivi_ar_skaneri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena5_Masivi_ar_skaneri.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena6_Masivi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena6_Masivi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena6_Masivi_ar_random.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena6_Masivi_ar_random.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena7_Masivi_salidzinasana_2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena7_Masivi_salidzinasana_2D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena8_funkcijas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena8_funkcijas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/piemeri/LekcijuDiena9_Vienkarsas_funkcijas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/piemeri/LekcijuDiena9_Vienkarsas_funkcijas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars1_intro/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars2_if_switch/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars3_cikli/Uzdevums9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Temp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums6a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars4_masivi/Uzdevums6a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars5_funkcijas/Uzdevums6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/models/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/models/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/models/StudyLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/models/StudyLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/models/StudyProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/models/StudyProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/models/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/models/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminars6_klase/services/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminars6_klase/services/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminarz2/model/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminarz2/model/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminarz2/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminarz2/service/VeA_IS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminarz2/service/VeA_IS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -205,6 +130,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Uzdevums1" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Uzdevums1 (2)" />
       <item itemvalue="Application.Uzdevums1 (3)" />
@@ -244,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665742597538</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Seminars NR2">
+      <created>1666358306229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666358306229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Seminars NR2">
+      <created>1666358328360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666358328360</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+    <MESSAGE value="Seminars NR2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminars NR2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
