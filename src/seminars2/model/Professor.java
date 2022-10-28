@@ -1,5 +1,4 @@
-package seminarz2.model;
-
+package seminars2.model;
 public class Professor {
     private long p_id;
     private String name;
@@ -10,12 +9,10 @@ public class Professor {
     public long getP_id() {
         return p_id;
     }
-
     public void setId() {
         this.p_id = counter;
         counter++;
     }
-
     public String getName() {
         return name;
     }
@@ -26,10 +23,8 @@ public class Professor {
         } else {
             this.name = "Invalid Name";
             System.err.println("Invalid input for name");
-
         }
     }
-
     public String getSurname() {
         return surname;
     }
@@ -40,7 +35,6 @@ public class Professor {
         } else {
             this.surname = "Invalid Surname";
             System.err.println("Invalid input for surname");
-
         }
     }
 
@@ -64,7 +58,6 @@ public class Professor {
         setSurname(surname);
         setDegree(degree);
     }
-
     public Professor(){
         setId();
         setName("No Name");

@@ -1,4 +1,4 @@
-package seminarz2.model;
+package Inheritance.model;
 
 public class Grade {
     private long g_id;
@@ -6,20 +6,16 @@ public class Grade {
     private Student student;
     private Course course;
     public static int counter = 200000;
-
     public long getG_id() {
         return g_id;
     }
-
     public void setId() {
         this.g_id = counter;
         counter++;
     }
-
     public int getValue() {
         return value;
     }
-
     public void setValue(int value) {
         if (value>0 && value <=10) {
             this.value = value;
@@ -28,7 +24,6 @@ public class Grade {
             System.err.println("Invalid input for value");
         }
     }
-
     public Student getStudent() {
         return student;
     }
@@ -56,21 +51,18 @@ public class Grade {
     public static int getCounter() {
         return counter;
     }
-
     public Grade(int value, Student student, Course course ){
         setId();
         setValue(value);
         setStudent(student);
         setCourse(course);
     }
-
     public Grade(){
         setId();
         setValue(0);
         setStudent(new Student());
         setCourse(new Course());
     }
-
     @Override
     public String toString() {
         return "Grade{" +

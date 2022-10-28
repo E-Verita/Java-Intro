@@ -1,6 +1,6 @@
-package seminarz2.service;
+package seminars2.service;
 
-import seminarz2.model.*;
+import seminars2.model.*;
 
 import java.util.ArrayList;
 
@@ -98,7 +98,6 @@ public class VeA_IS {
 
 
         // PRINT
-
         System.out.println(professorList);
         System.out.println(studentArrayList);
         System.out.println(courseArrayList);
@@ -122,7 +121,7 @@ public class VeA_IS {
         for (Student temp : studentArrayList) {
             System.out.println("Average Weighted grade for " + temp.getName() + " " + temp.getSurname() + " is " + calculateAVGWeightedGrade(temp));
         }
-    //todo: pabeigt!
+        //todo: pabeigt!
         System.out.println("Sorted:");
         ArrayList<Student> sortedStudents = sortStudents();
         for (Student temp : sortedStudents) {
@@ -157,7 +156,7 @@ public class VeA_IS {
             for (Grade temp : gradeArrayList) {
                 if (temp.getStudent().equals(student)) {
                     sumOfGrades = sumOfGrades + temp.getValue() * temp.getCourse().getCreditPoint();
-                    countOfCreditPoints = countOfCreditPoints + temp.getCourse().getCreditPoint() ;
+                    countOfCreditPoints = countOfCreditPoints + temp.getCourse().getCreditPoint();
                 }
             }
             return sumOfGrades / countOfCreditPoints;
@@ -184,7 +183,6 @@ public class VeA_IS {
             return 0.0f;
         }
     }
-
     //4. Create a new function which calculates how many courses does professor teach;
     public static byte calculateCourseCountForProfessor(Professor professor) {
         if (professor != null) {

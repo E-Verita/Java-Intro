@@ -1,4 +1,4 @@
-package seminarz2.model;
+package seminars2.model;
 
 public class Course {
     private long c_id;

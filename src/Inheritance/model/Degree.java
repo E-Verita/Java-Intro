@@ -1,4 +1,4 @@
-package seminarz2.model;
+package Inheritance.model;
 
 public enum Degree {
     Bachelor, Master, Doctor, unknown
