@@ -3,7 +3,7 @@ package Inheritance.model;
 public class Professor extends Person{
     private long p_id;
     private Degree degree;
-    public static int counter = 0;
+    private static long counter = 0;
 
     public long getP_id() {
         return p_id;
@@ -21,7 +21,7 @@ public class Professor extends Person{
         this.degree = degree;
     }
 
-    public static int getCounter() {
+    public static long getCounter() {
         return counter;
     }
 

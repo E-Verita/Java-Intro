@@ -4,25 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="Seminars Nr.2- Funkcijas">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2/model/Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2/model/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars2/service/VeA_IS.java" afterDir="false" />
+    <list default="true" id="4c10950e-053c-43dd-a60f-c2d271bef046" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Nationality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/model/Speciality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slimnica/service/HospitalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminarz2/model/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Grade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminarz2/model/Grade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminarz2/model/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminarz2/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/seminarz2/service/VeA_IS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/seminarz2/service/VeA_IS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Degree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars2/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminarz2/service/VeA_IS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/service/VeA_IS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Inheritance/model/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Inheritance/model/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Inheritance/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Inheritance/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Inheritance/service/VeA_IS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Inheritance/service/VeA_IS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Degree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/seminarz2/service/VeA_IS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/model/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/model/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +71,26 @@
       <recent name="Inheritance.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VeA_IS (1)">
+  <component name="RunManager" selected="Application.HospitalTest">
     <configuration name="ExampleService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars7.ExampleService" />
       <module name="JavaIntro" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seminars7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slimnica.service.HospitalTest" />
+      <module name="JavaIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slimnica.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeA_IS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="VeA_IS (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.service.VeA_IS" />
       <module name="JavaIntro" />
       <extension name="coverage">
@@ -135,15 +151,16 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.VeA_IS (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Uzdevums1 (3)" />
       <item itemvalue="Application.ExampleService" />
       <item itemvalue="Application.VeA_IS" />
-      <item itemvalue="Application.VeA_IS (1)" />
+      <item itemvalue="Application.HospitalTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VeA_IS (1)" />
+        <item itemvalue="Application.HospitalTest" />
         <item itemvalue="Application.VeA_IS" />
         <item itemvalue="Application.ExampleService" />
         <item itemvalue="Application.Uzdevums1 (3)" />
@@ -195,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666959573002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Inheritance">
+      <created>1666963233672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666963233672</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +237,8 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Seminars NR2" />
     <MESSAGE value="Seminars Nr.2- Funkcijas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminars Nr.2- Funkcijas" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

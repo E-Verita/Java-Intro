@@ -2,7 +2,7 @@ package Inheritance.model;
 
 public class Student extends Person{
     private long st_id;
-    public static int counter = 10000;
+    private static long counter = 10000;
    // 1. variables - name un surname nāk no Person
 
     public long getSt_id() {
@@ -13,7 +13,7 @@ public class Student extends Person{
         counter++;
     }
 
-    public static int getCounter() {
+    public static long getCounter() {
         return counter;
     }
 
